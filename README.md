@@ -21,12 +21,11 @@ README.md → Documentation
 ________________________________________
 Installation
 1.	Clone the repository
-o	git clone https://github.com/YourUsername/weather-report-backend.git
+o	git clone https://github.com/BhuvaneswariTech/weather-report-backend.git
 o	cd weather-report-backend
 2.	Create a virtual environment (recommended)
 o	python -m venv venv
 o	venv\Scripts\activate (on Windows)
-o	source venv/bin/activate (on Mac/Linux)
 3.	Install dependencies
 o	pip install -r requirements.txt
 ________________________________________
